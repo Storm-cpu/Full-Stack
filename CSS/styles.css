@@ -39,6 +39,7 @@ p {
     outline: 8px solid #EDEDED;
     padding-bottom: 20px;
     padding-top: 10px;
+     width: 100%;
 }
 
 body{
