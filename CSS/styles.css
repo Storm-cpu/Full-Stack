@@ -76,10 +76,28 @@ table {
     background: transparent;
     color: white;
 }
-
-.fa-envelope {
+.fa-envelope{
     background: transparent;
     color: white;
+}
+.fa-envelope:hover  {
+    background: white;
+    color: black;
+}
+
+.fa-facebook:hover  {
+    background: white;
+    color: black;
+}
+
+.fa-github:hover  {
+    background: white;
+    color: black;
+}
+
+.fa-instagram:hover  {
+    background: white;
+    color: black;
 }
 
 table{
