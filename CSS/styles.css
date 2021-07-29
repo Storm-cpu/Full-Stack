@@ -1,0 +1,89 @@
+h1 {
+    color: white;
+    font-size: 80px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    margin: 0;
+    text-align: center;
+}
+
+h1 .h1color {
+    color: #DA0037;
+    letter-spacing: 2px;
+}
+
+h2{
+    color: #DA0037;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 0;
+}
+
+h3{
+    color: white;
+    font-size: 15px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    margin: 0;
+    text-align: center;
+}
+
+p {
+    color: white;
+    letter-spacing: 2px;
+    
+}
+
+.heading {
+    background-color: #171717;
+    outline: 8px solid #EDEDED;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+
+body{
+    background-color: #000000;
+}
+
+.button{
+    margin-top: 50px;
+}
+
+table {
+    margin-top: 150px;
+}
+
+.fa {
+    border: solid white;
+    padding: 20px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+  }
+
+.fa-facebook {
+    background: transparent;
+    color: white;
+}
+
+.fa-github {
+    background: transparent;
+    color: white;
+}
+
+.fa-instagram {
+    background: transparent;
+    color: white;
+}
+
+.fa-envelope {
+    background: transparent;
+    color: white;
+}
+
+table{
+    text-align: start;
+    margin-left:5%;
+    margin-right: 10%;
+}
